@@ -1,0 +1,32 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "training coding etc",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.18.12",
+    "grunt-cli": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "sass-lint": "^1.10.2"
+  },
+  "scripts": {
+    "test": "testex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no git"
+  },
+  "keywords": [
+    "ambitnie",
+    "exercise"
+  ],
+  "author": "bambalon",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+nav {
+  display: inline-block; }
+  nav img {
+    width: 90px;
+    height: 70px; }
+  nav ul {
+    display: inline-block; }
+    nav ul a {
+      text-decoration: none;
+      color: pink;
+      text-transform: uppercase;
+      list-style-type: none; }
+
+/*# sourceMappingURL=style.css.map */
